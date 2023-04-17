@@ -1,4 +1,4 @@
-package com.appcade.mvvmnoteapp
+package com.appcade.mvvmnoteapp.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
