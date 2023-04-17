@@ -8,6 +8,7 @@ import com.appcade.mvvmnoteapp.ui.theme.LightGreen
 import com.appcade.mvvmnoteapp.ui.theme.RedOrange
 import com.appcade.mvvmnoteapp.ui.theme.RedPink
 import com.appcade.mvvmnoteapp.ui.theme.Violet
+import java.lang.Exception
 
 @Entity
 data class Note(
@@ -20,4 +21,8 @@ data class Note(
     companion object{
         val noteColors = listOf(RedOrange, LightGreen, Violet, BabyBlue, RedPink)
     }
+
+
 }
+
+class InvalidNoteException(message:String):Exception(message)
