@@ -20,7 +20,7 @@ class NoteRepositoryImpl( private val dao:NoteDao
              dao.insterNote(note)
         }
 
-        override suspend fun delete(note: Note) {
+        override suspend fun deleteNote(note: Note) {
              dao.deleteNote(note)
         }
 
