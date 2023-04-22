@@ -24,3 +24,11 @@ d
 4app/src/main/java/com/appcade/mvvmnoteapp/NoteApp.kt,f\5\f5d25e5b2f31d621c3449ee5509502f0198a7e3f
 P
  app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+Ü
+Vapp/src/main/java/com/appcade/mvvmnoteapp/presentation/notes/components/NotesScreen.kt,b\5\b5fbd0b08f858e9bee1535a7ccf52eceb91a5954
+à
+Xapp/src/main/java/com/appcade/mvvmnoteapp/presentation/add_edit_note/AddEditNoteEvent.kt,5\4\5410b7af6c67f7bed8ab70a2153cf3d76152f8d4
+Å
+Qapp/src/main/java/com/appcade/mvvmnoteapp/feature_note/domain/use_case/GetNote.kt,6\d\6d9605f04061be598f35fff51d9d3a43747a5b83
+ä
+Zapp/src/main/java/com/appcade/mvvmnoteapp/presentation/add_edit_note/NoteTextFieldState.kt,b\e\be4705506985d3f6574060453f3f739cedc2cac1
